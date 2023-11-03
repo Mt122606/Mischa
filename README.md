@@ -3,7 +3,7 @@
 
 ### Hello All,
 
-#### Thank you for stopping in. 
+
   
   In this repository, I add codes that I do for fun.
 ##### [About me](https://github.com/Mt122606/Mischa/blob/main/About_me/About_me.py) : Started AI for myself say Hi!
@@ -12,3 +12,4 @@
 ##### [Major Munchies](https://github.com/Mt122606/Mischa/tree/main/Projects/MunchieProject) : I'm just playing with actual data on a small family business.
 
 
+#### Thank you for stopping in. 
