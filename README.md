@@ -4,14 +4,14 @@
 ### Hello All,
 
   Thank you for stopping in. 
-  This repsository I add codes that I do for fun.
-1. About me
+  In this repository, I add codes that I do for fun.
+* [About me](https://github.com/Mt122606/Mischa/blob/main/About_me/About_me.py)
   Started AI for myself say Hi!
-2. Purchasing HTML PPT
-  Link to an old project. Example of charator. 
-2. Guest List
-  Check my code see if you can sign my guest list.
-3. Major Munchies Data
-  Just playing with real data on a small family business.
+* [Purchasing HTML PPT](https://github.com/Mt122606/Mischa/blob/main/About_me/HTML_Example.html)
+  Link to an old project. Example of character. 
+* [Guest List](https://github.com/Mt122606/Mischa/blob/main/Input_GuestList.py)
+  Check my code to see if you can sign my guest list.
+* [Major Munchies](https://github.com/Mt122606/Mischa/tree/main/Projects/MunchieProject)
+  I'm just playing with actual data on a small family business.
 
 
